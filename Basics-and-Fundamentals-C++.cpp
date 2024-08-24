@@ -1,4 +1,5 @@
 // Daryl Vince De Castro  C2A
+// Basic and Fundamentals on C++ using git 
 
 #include <iostream>
 
@@ -8,8 +9,7 @@ int main() {
     const int maxSize = 10;
     int array1[maxSize], array2[maxSize], mergedArray[2 * maxSize];
     int size1, size2;
-
-    cout << "Enter the number of elements for the first array (up to 10): ";
+    cout<<"\nBasic and Fundamentals C++ and Git"<<endl;
     cin >> size1;
     cout << "Enter elements for the first array:\n";
     for (int i = 0; i < size1; i++) {
